@@ -1,4 +1,6 @@
-# vue-js-client-crud
+# Employee list
+
+![image](https://user-images.githubusercontent.com/127539392/232159431-4f9bc34b-d745-48c4-b77c-58f0235e65fb.png)
 
 ## Project setup
 ```
